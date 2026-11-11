@@ -21,7 +21,7 @@ after removing `export const A`:
   "error: TypeError: Cannot use 'in' operator to search for 'render' in undefined",
   'warning: [HMR] Something went wrong during Vue component hot-reload. Full reload required.',
   'debug: [vite] hot updated: /src/comps.jsx'
-]
+]bc1qw7xxv423z7q0834fuylf8ph6gr93p7undxcu5l
 ```
 
 Expected: no error; the update is invalidated (full reload).
